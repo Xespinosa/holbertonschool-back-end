@@ -7,6 +7,7 @@ from sys import argv
 def information_employee():
     """Returns information about employees"""
     id_employee = int(argv[1])
+    id_employee = int(argv[1])
     employee_name = ""
     number_of_done_task = 0
     total_number_of_task = 0
